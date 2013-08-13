@@ -14,7 +14,8 @@ COMPILE TOOLS
 
 AUTHORS
 ===============
-* Andreas (Scorpio)
+* Peter Fitzsimmons
+* Andreas Just (Scorpio)
 
 LINKS
 ===============
