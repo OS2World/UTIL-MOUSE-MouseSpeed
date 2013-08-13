@@ -6,7 +6,7 @@ Mouse Pointer Acceleration program
 
 LICENSE
 ===============
-* Not Specified
+* Free - Public Domain
 
 COMPILE TOOLS
 ===============
